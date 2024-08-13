@@ -1,0 +1,11 @@
+requests
+pandas
+numpy
+tqdm
+matplotlib
+scipy
+jsonlib-python3
+pickle5
+pylzma
+concurrent.futures
+datetime
